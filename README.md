@@ -1,6 +1,6 @@
 ## Hi i'm Ahoora Dolatabudi 
 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/002/016/230/original/introduction-welcome-for-presentation-free-video.jpg">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/002/016/230/original/introduction-welcome-for-presentation-free-video.jpg" width="1500"  height="550">
 
 
 
