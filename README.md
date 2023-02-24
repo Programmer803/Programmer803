@@ -18,7 +18,7 @@
 
 
 ### My programming activities
-<h4>I am currently under 18 years old, so I have not worked with any company under contract, but I am working as a freelancer. My profile address is on the freelance site. <a href="karlancer.com/profile/106337">[HERE]</a></h4>
+<h4>I am currently under 18 years old, so I have not worked with any company under contract, but I am working as a freelancer</h4>
 
 ## 
 <a href="mailto:wwwahoora802@gmail.com"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" ></a>
