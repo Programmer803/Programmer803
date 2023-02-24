@@ -9,7 +9,7 @@
 - Programming
 - Math
 - Soccer
-- Reading
+- Reading books 
 
 <hr>
 
