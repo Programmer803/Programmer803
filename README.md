@@ -1,4 +1,4 @@
-## Hi i'm So3r
+## Hi i'm Ahoora Doulatabadi
 
 <img src="https://static.vecteezy.com/system/resources/thumbnails/002/016/230/original/introduction-welcome-for-presentation-free-video.jpg">
 
